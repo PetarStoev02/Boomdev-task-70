@@ -19,8 +19,7 @@ window.addEventListener("DOMContentLoaded", () => {
   document.querySelector(".image").addEventListener("click", () =>{
     imageDiv.style.transform = "scale(2)"
   })
-  console.log(imageDiv);
-  console.log(main);
+  
 });
 
 
